@@ -1,0 +1,63 @@
+body
+{
+    background-color: rgb(228, 226, 226);
+}
+
+.main-div
+{
+    text-align: center;
+}
+
+#imie
+{
+    font-size: 40px;
+}
+
+#header
+{
+
+}
+
+#formularz1
+{
+
+}
+
+#button1
+{
+    margin-top: 5px;
+}
+
+#wynikF1
+{
+    color: black;
+    font-weight: 700;
+}
+
+#wynikF2
+{
+    color: black;
+    font-weight: 700;
+}
+
+#formularz2
+{
+
+}
+
+#button2
+{
+    margin-top: 5px;
+}
+
+.teksty
+{
+    
+    text-align: center;
+}
+
+.img-container
+{
+    padding-top: 15px;
+    text-align: center;
+}
